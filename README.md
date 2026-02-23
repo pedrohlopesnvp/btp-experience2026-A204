@@ -32,16 +32,16 @@ ABAP Cloud is the development model for building clean core compliant apps, serv
   [Slides](slides/AD204_Fusion_Development_with_ABAP_Cloud_in_SAP_Build.pdf)
 
 ## Exercises
-[^Top of page](#AD204 - Fusion Development with ABAP Cloud in SAP Build)
+[^Top of page](#)
 
 
 
 | Exercises | -- |
 | ------------- |  -- |
-| [Exercise 1: Create an ABAP project in the SAP Build Lobby](exercises/ex1/README.md) | -- |
-| [Exercise 2: Create a Shopping Cart business object, projection and service with the graphical modeler in BAS](exercises/ex2/README.md) | -- |
-| [Exercise 3: Implement transactional behavior in ADT, create validations and determinations](exercises/ex3/README.md) | -- |
-| [Exercise 4: Create, preview and adapt a SAP Fiori elements application](exercises/ex4/README.md) | -- |
+| [Exercise 1: Create an ABAP project in the SAP Build Lobby](exercises/ex1/README.md) | 01 |
+| [Exercise 2: Create a Shopping Cart business object, projection and service with the graphical modeler in BAS](exercises/ex2/README.md) | 02 |
+| [Exercise 3: Implement transactional behavior in ADT, create validations and determinations](exercises/ex3/README.md) | 03 |
+| [Exercise 4: Create, preview and adapt a SAP Fiori elements application](exercises/ex4/README.md) | 04 |
 
 ## Solution Package
 
