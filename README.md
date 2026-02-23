@@ -10,7 +10,7 @@ This repository contains the material for the SAP BTP Experience 2026 session ca
 >  ****
 
 - [Overview](#overview)
-- [Presentation & Replay](#recording)
+- [Presentation](#Presentation)
 - [Exercises](#exercises)
 - [Solution Package](#solution-package)
 - [How to obtain support](#how-to-obtain-support) 
@@ -25,7 +25,7 @@ ABAP Cloud is the development model for building clean core compliant apps, serv
 
 <img src="resulting_app.gif" alt="create package" width="50%">
 
-## Presentation & Replay
+## Presentation
   
 * Access the presentation:
 
