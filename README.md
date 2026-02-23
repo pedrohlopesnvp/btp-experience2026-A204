@@ -32,7 +32,7 @@ ABAP Cloud is the development model for building clean core compliant apps, serv
   [Slides](slides/AD204_Fusion_Development_with_ABAP_Cloud_in_SAP_Build.pdf)
 
 ## Exercises
-[^Top of page](#)
+[^Top of page](#AD204 - Fusion Development with ABAP Cloud in SAP Build)
 
 
 
@@ -77,6 +77,6 @@ Support for the content in this repository is available during the actual time o
  - [Explore the interactive SAP BTP ABAP Environment road map](https://roadmaps.sap.com/board?range=CURRENT-LAST&PRODUCT=6EAE8B28C5D91EDA9FF40F3CC2DBE0E6&PRODUCT=73555000100800001164) | SAP Road Map Explorer
  - [RAP100 Tutorials Mission on SAP Developers Center](https://developers.sap.com/mission.sap-fiori-abap-rap100.html) | SAP Tutorials
  - [Create an SAP Fiori elements app with SAP Business Application Studio and deploy it to the SAP BTP ABAP Environment](https://developers.sap.com/tutorials/abap-environment-deploy-fiori-elements-ui.html) | SAP Tutorials
- - 
+   
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
