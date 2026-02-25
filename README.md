@@ -33,7 +33,7 @@ ABAP Cloud is the development model for building clean core compliant apps, serv
 
 * 🚨 Essential prerequisites for hands-on:
 
-  [Prerequisites](slides/Pre-Requisitos_-_Fusion_development_with_ABAP_Cloud_in_SAP_Build_(A204)_.pdf)
+  [Prerequisites](slides/Pre-Requisitos-FusionDevelopmentWithABAPCloudInSAPBuild(A204).pdf)
 
 ## Exercises
 [^Top of page](#)
