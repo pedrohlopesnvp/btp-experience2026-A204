@@ -10,7 +10,7 @@ This repository contains the material for the SAP BTP Experience 2026 session ca
 >  ****
 
 - [Overview](#overview)
-- [Presentation](#Presentation)
+- [Presentation](#presentation-&-prerequisites)
 - [Exercises](#exercises)
 - [Solution Package](#solution-package)
 - [How to obtain support](#how-to-obtain-support) 
@@ -29,11 +29,11 @@ ABAP Cloud is the development model for building clean core compliant apps, serv
   
 * Access the presentation:
 
-  [Slides](slides/AD204_Fusion_Development_with_ABAP_Cloud_in_SAP_Build.pdf)
+  [Presentation](slides/AD204_Fusion_Development_with_ABAP_Cloud_in_SAP_Build.pdf)
 
-* 🚨 Essential prerequisites for hands-on learning:
+* 🚨 Essential prerequisites for hands-on:
 
-  [Slides](slides/Pré-Requisitos - Fusion development with ABAP Cloud in SAP Build (A204) .pdf)
+  [Prerequisites](slides/Pré-Requisitos_-_Fusion_development_with_ABAP_Cloud_in_SAP_Build_(A204)_.pdf)
 
 ## Exercises
 [^Top of page](#)
