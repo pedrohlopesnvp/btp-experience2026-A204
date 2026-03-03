@@ -56,8 +56,8 @@ https://epiusebr-my.sharepoint.com/:x:/g/personal/pedro_vieira_epiuse_com_br/IQD
    > ℹ️ ** Replace **`###`** with the Group ID of your exercise group.  
    > For the screenshots in this exercise we used the suffix **`Z01`**. Please DO NOT use **`Z01`**.  
    
-   As **System** select **H63** from the drop down box.   
-   For **Package** select **Existing** and enter **ZAD163_###**.    
+   As **System** select **host-url-steampunk-system** from the drop down box.   
+   For **Package** select **Existing** and enter **ZA204_###**.    
   
    > Please note:  
    > The package with your group ID `###` has been pre-created for your convenience.  
@@ -71,10 +71,10 @@ https://epiusebr-my.sharepoint.com/:x:/g/personal/pedro_vieira_epiuse_com_br/IQD
    <img src="images/01_060_create_new_transport.png" alt="system and package" width="100%">
 
 10. In the **Name** dialog, maintain the following values:
-   - Name: **ZAD163_###**
-   - Description: **Project for ZAD163_###**
-   - CSN File Name: **ZAD163_###**
-   - Dev Space: **ZAD163###**
+   - Name: **ZAD204_###**
+   - Description: **Project for ZA204_###**
+   - CSN File Name: **ZA204_###**
+   - Dev Space: **ZA204###**
 
    <img src="images/01_070_create_sap_build_project_and_dev_space.png" alt="project name" width="100%">
 
@@ -82,12 +82,12 @@ https://epiusebr-my.sharepoint.com/:x:/g/personal/pedro_vieira_epiuse_com_br/IQD
 
    > The **CSN File** is a JSON file that is used by the graphical modeller (that we will use later to model our RAP business object).
    It is stored as a repository object of type **R3TR CSNM** in the ABAP stack and the name must therefore start with `Z` or with a customer or partner specific namespace `/<namespace>/`.  
-   > In addition you have to select a name for a Dev Space that will be used by SAP Build Code. Since the Dev Space `ZAD163_###` does not exist yet, it will be created and started. The startup of the Dev Space will take some time as a new runtime environment will be instantiated in SAP Build.   
+   > In addition you have to select a name for a Dev Space that will be used by SAP Build Code. Since the Dev Space `ZA204_###` does not exist yet, it will be created and started. The startup of the Dev Space will take some time as a new runtime environment will be instantiated in SAP Build.   
    > Please be aware that only up to two Dev Space may be active in parallel for each user and that only up to 10 Dev Spaces maybe created for each user.  
 
 11. Review your selections and inputs. Make sure you replaced **###** with your exercise Group ID. Finish the project setup with **Create**.
 
-12. In the project list you can now see the newly created project **ZAD163_###**. Be patient in as long in the **Versions** column you see the status **Pending Creation**. 
+12. In the project list you can now see the newly created project **ZA204_###**. Be patient in as long in the **Versions** column you see the status **Pending Creation**. 
 
 
     <img src="images/01_080_create_sap_build_project_pending_creation.png" alt="project name" width="100%">   
