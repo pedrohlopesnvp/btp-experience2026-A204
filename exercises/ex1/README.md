@@ -20,16 +20,16 @@ https://epiusebr-my.sharepoint.com/:x:/g/personal/pedro_vieira_epiuse_com_br/IQD
 1. In your browser, sign in to the Build lobby with the credentials of your exercise group.  
 
 > The URL and the username and the password will be provided to you by the course instructors.
-> The URL to the SAP Build Lobby is provided as a shortened URL in a format such as https://url.sap/abc123.
+> The URL to the SAP Build Lobby is https://emea.cockpit.btp.cloud.sap/cockpit/?idp=ahig3ghv4.accounts.ondemand.com#/globalaccount/CA50%E2%80%A6.
 
 2. Add the shortened URL for the SAP Build Lobby into your browser.
 
 3. When being prompted enter the credentials:
 
-   - email: `AD163-###@....`
+   - email: `A204_D####@sapbtpexperience.com`
    - password: `xxxx`
 
-   ⚠️⚠️⚠️ Be sure to replace the placeholder `###` with the correct group id. (`A##` for ASUG, `B##` for SAP Teched, ...) 
+   ⚠️⚠️⚠️ Be sure to replace the placeholder `###` with the correct group id. (`###`) 
 
    <img src="images/00_010_initial_authentication.png" alt="create dialog" width="25%">
 
