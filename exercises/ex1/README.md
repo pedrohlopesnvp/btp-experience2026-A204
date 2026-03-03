@@ -11,18 +11,7 @@ _SAP Build Lobby_ is the starting point to manage your different Build project t
 > Don't forget to replace all occurences of the placeholder **`###`** with your Group ID in the exercise steps below.   
 > The password will be provided by the course instructors. 
 
- Your Group ID starts with a location specific character **A** for ASUG, **B** for TechEd Berln, ...
- 
- In addition you have to add the last two digits of the number at your desk **##**.
- 
- So depending on the event you are participating your Group ID will look like follows:   
-
- | **Event name**                          | **Group ID** (location specific)                  |  System |
- |----------------------------------------|---------------------------------|---------------------------------            
-| **ASUG TechConnect in Louisville**       | **A##**                                |    |
-| **SAP TechEd Berlin**                    | **B##**                                |    |
-| **TechEd On Tour - Bangalore 2025**      | **C##**                                |    |
-| **TechEd On Tour - Sydney 2025**         | **D##**                                |    |
+https://epiusebr-my.sharepoint.com/:x:/g/personal/pedro_vieira_epiuse_com_br/IQDRBCmzu_3SQpZMB7-8qV8fAT4k7CkCTa3L60BLCKy85L8?e=eq38zb
 
 ## Exercise: Create an ABAP Project
 
