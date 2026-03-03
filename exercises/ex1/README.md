@@ -71,7 +71,7 @@ https://epiusebr-my.sharepoint.com/:x:/g/personal/pedro_vieira_epiuse_com_br/IQD
    <img src="images/01_060_create_new_transport.png" alt="system and package" width="100%">
 
 10. In the **Name** dialog, maintain the following values:
-   - Name: **ZD204_###**
+   - Name: **ZA204_###**
    - Description: **Project for ZA204_###**
    - CSN File Name: **ZA204_###**
    - Dev Space: **ZA204###**
